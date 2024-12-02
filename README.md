@@ -28,5 +28,8 @@
 
 ## Contributors:
   - Thomas O'Sullivan
+      - Focused on hyperparameter tuning and model training.
   - Will Mathews
+      - Focused on documentation and organization of project code and github repository. 
   - Holden Davis
+      - Focused on initial training and data visualization comparing different training results.
